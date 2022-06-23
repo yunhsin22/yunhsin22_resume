@@ -81,8 +81,7 @@ li{
   margin: 5px;;
   list-style-type: none;
   text-indent: -5px;
-  padding-left: 15px;
-  
+  padding-left: 15px;  
 }
   
 
@@ -8222,3 +8221,15 @@ main {
     transform: rotate3d(0, 1, 0, 104deg); } }
 
 /*# sourceMappingURL=live-resume.css.map */
+
+.linkCV{
+  color: #fff;
+  hover
+}
+
+.linkCV:hover { 
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight:bold;
+  text-decoration:none;
+}
